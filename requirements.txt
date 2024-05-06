@@ -1,0 +1,13 @@
+welcome to save your boat game :D
+
+Description: 
+
+1) You have a boat that has 5 lives. When boat lives end it will drown.
+2) You should guess the word by choosing a letter from the English alphabet
+3) If you got the letter wrong you will lose a life.
+4) When you guess the letter right you will be provided with the updated word
+5) If you guess everything right you will win
+6) If you finish your lives without guessing the word you will lose.
+7) To quit, you can type exit
+
+wanna play? (y, n)
